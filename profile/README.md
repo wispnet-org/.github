@@ -8,7 +8,6 @@ Started in early 2024, the **WISPNET** provides unique, simple, (and often niche
 
 - **IOserver**: Originally a local home server, the IOserver project is a JavaScript game space, which we would love a contribution to! It was one of the first projects of the WISPNET, and was created before the WISPNET was even given a name. (Available to the public.)
 - **The VX Project**: Still in the very early stages of development, the VX Project is one of the most recent projects. It is a home-made temperature sensor for outdoor research. (Not yet available to the public.)
-- **Project Fiveboard**: *`REDACTED FOR SECURITY.`*
 - **gettemp Project**: The gettemp Project is a `Raspberry Pi` command based on the long and complex `vcgencmd measure_temp` command, and can return the temperature value in Fahrenheit and Kelvin in addition to the default Celsius. (Not yet available to the public.) Its predecessor, the get-ftemp project, returns the value in just Farenheit. (Available to the public.)
 - **wndbx**: The wndbx project is an open-source GUI SQLite database written in Python. (Available to the public.)
 - **Theme Projects**: **WISPNET** (and other) themes for the Visual Studio Code marketplace.  (Not available to the public.)
