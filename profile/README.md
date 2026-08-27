@@ -1,5 +1,4 @@
-# Welcome to the WISPNET! 
-// <img src="https://wisp.wispnet.org/resources/logo/wispnet/oldlogo/WNLogo-2.png" alt="WISPNET Logo" width="50" height="50" align="left" />
+# Welcome to the WISPNET! <!-- <img src="https://wisp.wispnet.org/resources/logo/wispnet/oldlogo/WNLogo-2.png" alt="WISPNET Logo" width="50" height="50" align="left" /> -->
 
 ## About
 Started in early 2024, the **WISPNET** provides unique, simple, (and often niche), solutions to homelab users and creators. Consisting of two experimentation servers, one development server, and one service server, we're always growing!
